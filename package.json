@@ -1,7 +1,7 @@
 {
   "name": "react-basic-starter-boilerplate",
   "version": "1.0.0",
-  "description": "A basic webpack starter boilderplate for React projects.",
+  "description": "A basic webpack starter boilerplate for React projects.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config build-utils/webpack.config.js --env.env=dev",
