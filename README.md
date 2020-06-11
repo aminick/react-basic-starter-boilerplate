@@ -6,6 +6,7 @@ A basic webpack starter boilerplate for React projects.
 git clone https://github.com/aminick/react-basic-starter-boilerplate.git
 npm install
 ```
+Create `.env.development` and `.env.production` to the root directory.
 ### Usage
 **Development**
 ```
